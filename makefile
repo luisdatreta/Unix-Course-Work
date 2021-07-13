@@ -1,6 +1,6 @@
 README.md:
 	touch README.md
-	echo "# Unix Workbench - Coursera\n\n## The make command was executed at this time and date:\n" > README.md
+	echo "# Unix Workbench - Coursera - Week 4 Assignment\n\n## The make command was executed at this time and date:\n" > README.md
 	echo "" >> README.md
 	date >> README.md
 	echo "" >> README.md
